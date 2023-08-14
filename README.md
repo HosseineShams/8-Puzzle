@@ -1,6 +1,6 @@
 # 8-Puzzle Game & Solver
 
-this code is a sophisticated toolset tailored for enthusiasts of the classic 8-puzzle game. Whether you're a casual player or a puzzle researcher, this code offers both an interactive gameplay experience and a state-of-the-art IDA-Star (A*) algorithm to compute optimal solutions.
+This code is a sophisticated toolset tailored for enthusiasts of the classic 8-puzzle game. Whether you're a casual player or a puzzle researcher, this code offers both an interactive gameplay experience and a state-of-the-art IDA-Star (A*) algorithm to compute optimal solutions.
 
 ## 🌟 Features
 
